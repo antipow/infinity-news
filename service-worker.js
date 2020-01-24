@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "infinity-news/precache-manifest.8851aaf73802d0bcd347f0fc8a8a0264.js"
+  "/infinity-news/precache-manifest.516328d017fe54c35aa08521d8401fee.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "kg-news"});
