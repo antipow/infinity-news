@@ -1,1 +1,1 @@
-Новостной клиент для https://docs.kudago.com/api/.
+Новостной клиент для https://newsapi.org/.
